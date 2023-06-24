@@ -1,28 +1,42 @@
-# Mi Perfil de GitHub
 
-¡Hola! Soy [Tu Nombre]. ¡Bienvenido/a a mi perfil de GitHub! 
+# <div align="center">Hi 👋,  welcome to my profile</div>
+<h3>About me:</h3>
 
-## Acerca de mí
-Soy un/a desarrollador/a de software apasionado/a y entusiasta de la tecnología. Me encanta trabajar en proyectos desafiantes y explorar nuevas tecnologías. Tengo experiencia en el desarrollo web y me especializo en las siguientes tecnologías:
+👨‍💻 I'm a passionate software developer and technology enthusiast. I love working on challenging projects and exploring new technologies.
 
-- **Laravel:** Un framework de desarrollo de aplicaciones web en PHP que me permite crear aplicaciones rápidas y eficientes.
-- **JavaScript y TypeScript:** Lenguajes de programación fundamentales en el desarrollo web. Los utilizo para crear interactividad y dinamismo en mis proyectos.
-- **PHP:** Un lenguaje de programación popular y versátil que utilizo para desarrollar aplicaciones web y servicios backend.
-- **Vue y React:** Frameworks de JavaScript que utilizo para crear interfaces de usuario modernas y reactivas. Me encanta trabajar con ambos y selecciono el más adecuado según las necesidades del proyecto.
-- **Node.js:** Un entorno de tiempo de ejecución de JavaScript que utilizo para construir aplicaciones de servidor y servicios backend.
+🔨 I have experience in web development and specialize in the following programming languages and frameworks:
 
-## Proyectos Destacados
-Aquí hay algunos de mis proyectos destacados en los que he trabajado:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="50" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="Node" alt="Node" width="40" height="40"/>&nbsp;
+</div>
 
-1. [Proyecto 1](enlace-al-proyecto1): Una aplicación web de gestión de tareas construida con Laravel y Vue.js.
-2. [Proyecto 2](enlace-al-proyecto2): Una aplicación de comercio electrónico desarrollada con React, Node.js y MongoDB.
-3. [Proyecto 3](enlace-al-proyecto3): Una biblioteca de componentes UI reutilizables construida con TypeScript y Vue.js.
 
-## Contacto
-Si deseas saber más sobre mis proyectos o colaborar en alguno de ellos, no dudes en contactarme. Puedes encontrarme en los siguientes enlaces:
+🚀 I also use these technologies on my projects:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title=""witdth="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="Redis" title="Redis" witdth="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" title="Git" witdth="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" witdth="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" title="Tailwind" witdth="40" height="40" />&nbsp;
+</div>
 
-- [LinkedIn](enlace-a-tu-perfil-de-LinkedIn)
-- [Sitio web personal](enlace-a-tu-sitio-web-personal)
-- [Correo electrónico](correo-electronico)
+## <div align="center">Interesting Projects</div>
+📝 Here are some of my noteworthy projects I have worked on:
 
-¡Espero que disfrutes explorando mis proyectos y código! Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo. ¡Gracias por visitar mi perfil de GitHub!
+1. [Real Time Chat App](https://github.com/JeimarD/laravel-chatapp): A real-time chat application developed with Laravel, Vue.js, Typescript, MySQL, Redis, WebSockets and more!.
+2. [E-commerce](https://github.com/JeimarD/JeiDB-Store/): An e-commerce application developed with Next.js, Sanity and Stripe.
+3. [Blog](https://github.com/JeimarD/JeiDBlog): A blog developer with Next.js, GraphQL, GraphCMS and Tailwind CSS.
+4. [To do List](https://github.com/JeimarD/ToDoList): A to do list developed with React.
+
+📫 If you want to learn more about my projects or collaborate on any of them, feel free to get in touch. You can find me on the following platforms:
+
+- [LinkedIn](https://www.linkedin.com/in/jeimardiazb/)
+- [Email](jeimardiazbello@gmail.com)
+
+Enjoy exploring my projects and code! If you have any questions or suggestions, don't hesitate to reach out. Thank you for visiting my GitHub profile!
