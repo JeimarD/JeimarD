@@ -26,7 +26,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" title="Tailwind" witdth="40" height="40" />&nbsp;
 </div>
 
-## <div align="center">Interesting Projects</div>
+---
+
+<h3>My Projects:</h3>
 📝 Here are some of my noteworthy projects I have worked on:
 
 1. [Real Time Chat App](https://github.com/JeimarD/laravel-chatapp): A real-time chat application developed with Laravel, Vue.js, Typescript, MySQL, Redis, WebSockets and more!.
